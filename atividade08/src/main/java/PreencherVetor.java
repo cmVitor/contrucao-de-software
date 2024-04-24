@@ -15,7 +15,7 @@ public class PreencherVetor {
                 valor =  scanner.nextInt();
                 vetor[indice] = valor;
                 indice++;
-            }while(valor != 0);
+            }while(valor != 0);   //caso fosse pra parar no decimo, seria: while(valor!=0 && indice<10)
 
             System.out.println("Valores no vetor:");
             for(int i = 0; i < indice; i++){
