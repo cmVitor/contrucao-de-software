@@ -21,4 +21,4 @@ Testes unitários são mais baratos e mais rápidos, diferentemente dos testes e
 ## 6. Métricas de código:
 Quanto menos complexidade tiver um código, menos defeitos ele terá.
 
-Algumas dessas dicas podem parecer clichês, e pra mim não era novo a importância dos testes na implementação de um código e a correção de bugs, porém algo novo e interessante que eu consegui extrair do vídeo é o fato de que o erro dos programadores é pensar que quanto mais rápido escrevemos os códigos, mais êxito obtiremos, sendo que na verdade quanto mais rápido lemos os códigos mais êxito teremos.
+Algumas dessas dicas podem parecer clichês, e pra mim não era novo a importância dos testes na implementação de um código e a correção de bugs. Porém algo novo e interessante que eu consegui extrair do vídeo é o fato de que o erro dos programadores é pensar que quanto mais rápido escrevemos os códigos, mais êxito obtiremos, sendo que na verdade o mais importante é o quão rápido conseguimos ler e entender o código, pois o código é escrito apenas uma vez, porém ele é lido diversas vezes e por pessoas diferentes.
